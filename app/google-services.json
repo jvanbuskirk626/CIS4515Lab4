@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "317716252612",
+    "firebase_url": "https://mapproject-1487260540141.firebaseio.com",
+    "project_id": "mapproject-1487260540141",
+    "storage_bucket": "mapproject-1487260540141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317716252612:android:f1f037bede9124e7",
+        "android_client_info": {
+          "package_name": "edu.temple.mapchatv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317716252612-6vgghh7spfs6iim694p4bgjfubuhdrlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfDXFHTsXTWHsGrso5tFmeu-LxP3XOTwU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
